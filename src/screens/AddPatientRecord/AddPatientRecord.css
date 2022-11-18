@@ -1,0 +1,15 @@
+.primaryContainer{
+    flex-direction: column;
+    display: flex;
+    margin-top: 10px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    /* height: 10%; */
+    /* height: 70px; */
+}
+input{
+    margin: 5px 10px 5px 10px;
+    padding: 7px;
+    width:  500px;
+}

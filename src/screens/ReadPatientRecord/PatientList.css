@@ -1,0 +1,9 @@
+.btnContainer{
+    /* alignSelf:'flex-end', display:'flex', justifyContent:'flex-end',margin:10    */
+/* align-self: flex-end; */
+margin-bottom: 10px;
+display: flex;
+justify-content: space-between;
+
+
+}
